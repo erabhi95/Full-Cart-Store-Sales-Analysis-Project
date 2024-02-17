@@ -14,6 +14,9 @@
 #### Project Overview
 This is a data analysis project aims to provide insights into the sales performance of Full Cart Store for the year 2022. By analysing various aspects of the sales data , we  seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+**Final Report**
+![Final Report](https://github.com/erabhi95/Full-Cart-Store-Sales-Analysis-Project/assets/159037337/173d1709-0d19-48b3-8e39-26ffea58feba)
+
 #### Data Sources
 The primary dataset used for this analysis are the 'Sales data' and the 'Location data', containg detailed information about the sales made by the company.
 
